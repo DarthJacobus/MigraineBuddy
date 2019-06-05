@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "557563076535",
+    "firebase_url": "https://migrainebuddy-4afb6.firebaseio.com",
+    "project_id": "migrainebuddy-4afb6",
+    "storage_bucket": "migrainebuddy-4afb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557563076535:android:27138415165aaf78",
+        "android_client_info": {
+          "package_name": "com.example.migranebuddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557563076535-tqu2d6sr8d72fs3qema9cdll33stc3kq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.migranebuddy",
+            "certificate_hash": "9e0578a815e50d345f18d5e11e04a1a027056688"
+          }
+        },
+        {
+          "client_id": "557563076535-ekmf76abd6ges4nmbl5i9trt22m6nfm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlY4zmZwH3ugdEIFjrEGfwQwDAzSNy8lk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557563076535-ekmf76abd6ges4nmbl5i9trt22m6nfm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
